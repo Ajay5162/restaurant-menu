@@ -1,0 +1,42 @@
+body{
+    background-image: url("food.jpeg") ;
+    height: 500px;
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+
+}
+div.chicken{
+    width:45%;
+    float:right;
+}
+div.price{
+    float: right;
+    width: 25%;
+}
+div.veg{
+    clear: both;
+    position: sticky;
+    width: 50%;
+    bottom: 5px;
+}
+h1.main{
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    text-align: center;
+}
+h1.ab{
+    
+    
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+li{
+    color: rgb(238, 244, 246);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+}
